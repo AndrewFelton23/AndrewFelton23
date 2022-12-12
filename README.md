@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AndrewFelton23
 - 👀 I’m interested in computer vision and microcontroller programming.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on basic python programs. 
+- 🌱 I’m currently learning python and computer vision programming.
 - 📫 How to reach me feltona6@gmail.com.
 
 <!---
