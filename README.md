@@ -9,7 +9,10 @@ I am currently a software engineering intern at Spiderweb Labs.
 ### :construction: Developing 
 I am working on developing my coding skills by partaking in extra projects and learning new languages.
 ### :grey_exclamation: Free Time 
-In my free time I am a avid runner :running:, amateur golfer :golf: and beginner surfer :surfer:. 
+In my free time I am a:
+- :running: avid runner 
+- :golf: amateur golfer 
+- :surfer: beginner surfer
 
 <!---
 AndrewFelton23/AndrewFelton23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
