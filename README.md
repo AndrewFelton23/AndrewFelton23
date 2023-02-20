@@ -15,7 +15,12 @@ In my free time I am a:
 - :surfer: beginner surfer
 
 ## Socials
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/feltonandrew/)
+[![github](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://github.com/AndrewFelton23)
+[![gmail](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](feltona6@gmail.com)
+[![Instagram](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.instagram.com/andrew.felton/)
+
+
 
 ## Contact me 
 :telephone_receiver: feltona6@gmail.com
