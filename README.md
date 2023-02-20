@@ -16,7 +16,7 @@ In my free time I am a:
 ## Languages
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/Cpp-#00599C?style=for-the-badge&logo=cpp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=c++&logoColor=white)
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/feltonandrew/)
