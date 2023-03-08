@@ -1,6 +1,6 @@
 # Hi, I am Andrew Felton 👋
 
-## About me 
+## About me
 
 ### :mortar_board: Education
 
