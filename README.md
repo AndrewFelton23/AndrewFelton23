@@ -6,7 +6,7 @@
 
 I am a Mechatronics Engineering student currently studying at the Nelson Mandela University
 
-### :round_pushpin: Currently based 
+### :round_pushpin: Currently based
 
 I am currently based in Gqeberha, South Africa
 
@@ -14,14 +14,15 @@ I am currently based in Gqeberha, South Africa
 
 I am currently a software engineering intern at Spiderweb Labs.
 
-### :construction: Developing 
+### :construction: Developing
 
 I am working on developing my coding skills by partaking in extra projects and learning new languages.
 
-### :grey_exclamation: Free Time 
+### :grey_exclamation: Free Time
 
 In my free time I am a:
-- :running: avid runner 
+
+- :running: avid runner
 - :golf: amateur golfer 
 - :surfer: beginner surfer
 
@@ -40,7 +41,7 @@ In my free time I am a:
 
 ## Back-End dev
 
-
+![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ## Get in touch
 
