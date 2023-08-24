@@ -44,18 +44,12 @@ In my free time I am a:
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-ffaa00?style=for-the-badge&logo=Flask&logoColor=white)
 
-## IDEs
-
-
-## Machine learning
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-ffaa00?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/andrewfelton)
-
 ## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/feltonandrew/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:feltona6@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrew.felton/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-ffaa00?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/andrewfelton)
 
 <!---
 AndrewFelton23/AndrewFelton23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
