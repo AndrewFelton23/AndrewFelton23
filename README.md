@@ -23,7 +23,7 @@ I am working on developing my coding skills by partaking in extra projects and l
 In my free time I am a:
 
 - :running: avid runner
-- :golf: amateur golfer 
+- :golf: amateur golfer  
 - :surfer: beginner surfer
 
 ## Programming Languages
@@ -42,6 +42,10 @@ In my free time I am a:
 ## Back-End dev
 
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+![flask](https://img.shields.io/badge/Flask-ffaa00?style=for-the-badge&logo=Flask&logoColor=white)
+
+## Machine learning
+
 
 ## Get in touch
 
