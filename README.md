@@ -32,20 +32,24 @@ In my free time I am a:
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Front-End dev
 
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Back-End dev
 
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-ffaa00?style=for-the-badge&logo=Flask&logoColor=white)
 
+## IDEs
+
+
 ## Machine learning
 
+[![Kaggle](https://img.shields.io/badge/Kaggle-ffaa00?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/andrewfelton)
 
 ## Get in touch
 
